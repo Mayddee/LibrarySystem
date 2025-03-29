@@ -56,7 +56,7 @@ Users can interact with the menu by entering the corresponding number for each a
 Книга удалена.
 ```
 
-## 📂 Project Structure
+##  Project Structure
 ```
 LibraryApp/
 │── src/
@@ -73,9 +73,9 @@ Contributions are welcome! If you wish to improve this project, feel free to for
 ##  License
 This project is open-source and can be used freely for learning and development purposes.
 
-## 📧 Contact
+##  Contact
 If you have any questions or suggestions, feel free to reach out via GitHub issues.
 
 ---
-⭐ Don't forget to give this project a star if you found it useful!
+ Don't forget to give this project a star if you found it useful!
 
